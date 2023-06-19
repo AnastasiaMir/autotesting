@@ -1,5 +1,4 @@
-# Password generator
-____
+# Password generator____
 Hexlet practice project (AbreCodeAbre group #37)
 
 [![GitHub Actions Demo](https://github.com/AnastasiaMir/hexlet-practice/actions/workflows/hexlet-practice.yml/badge.svg)](https://github.com/AnastasiaMir/hexlet-practice/actions/workflows/hexlet-practice.yml)
@@ -10,7 +9,7 @@ Hexlet practice project (AbreCodeAbre group #37)
 
 Random Password Generator allows you to create and copy unique passwords for your website or application depending on your requirements. You can choose such options as a length, a presence of symbols, characters (Upper or lower case) and numbers. Registration and authorization of a user are also available. 
 
-#Tech Stack
+## Tech Stack
 ____
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
