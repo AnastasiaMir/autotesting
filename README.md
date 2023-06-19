@@ -1,4 +1,5 @@
 # Password generator
+____
 Hexlet practice project (AbreCodeAbre group #37)
 
 [![GitHub Actions Demo](https://github.com/AnastasiaMir/hexlet-practice/actions/workflows/hexlet-practice.yml/badge.svg)](https://github.com/AnastasiaMir/hexlet-practice/actions/workflows/hexlet-practice.yml)
